@@ -275,7 +275,7 @@ export default function Header() {
         <CenteredContainer>
           <ContactInfoList>
             <ContactInfoListItem>
-              <Email /><a href="mailto:mcfisher83@gmail.com" style={{marginLeft: '5px'}}>mcfisher83@gmail.com</a>
+              <Email /><a href="mailto:mcfisher83@gmail.com" style={{marginLeft: '5px'}}>mcfisher83 (at) gmail.com</a>
             </ContactInfoListItem>
             <ContactInfoListItem>
               <Home /><a href="#" target="_blank" style={{marginLeft: '5px'}}>Svjard.github.io</a>

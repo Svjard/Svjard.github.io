@@ -27,7 +27,7 @@ const GlobalStyle = createGlobalStyle`
     flex-direction: column;
     height: 100%;
     min-height: 100%;
-    background: #45526C;
+    background: #f5f5f5;
     overflow-y: auto;
   }
 

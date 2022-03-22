@@ -80,3 +80,14 @@ export function Home() {
     </svg>
   )
 }
+
+export function Pin() {
+  return (
+    <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 48 48" style={{ width: '16px', display: 'inline-block' }}>
+      <g transform="matrix(2,0,0,2,0,0)">
+        <path stroke="#092F63" strokeLinecap="round" strokeLinejoin="round" strokeMiterlimit="10" d="M12 23.5L4.5 11V5L12 0.5L19.5 5V11L12 23.5Z"></path>
+        <path stroke="#092F63" strokeLinecap="round" strokeLinejoin="round" strokeMiterlimit="10" d="M8.5 6.59207L12 4.51807L15.5 6.59207V10.4441L12 12.5181L8.5 10.4441V6.59207Z"></path>
+      </g>
+    </svg>
+  )
+}
